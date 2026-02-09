@@ -40,3 +40,14 @@ coverage/
 # Temporary files
 temp/
 tmp/
+
+# Capacitor / Android specific ignores
+/android/.gradle/
+/android/build/
+/android/**/*.iml
+/android/local.properties
+/android/.idea/workspace.xml
+/android/.idea/libraries/
+/android/captures/
+/android/app/build/
+/android/app/src/main/assets/public/ # Copied web assets, source is dist/

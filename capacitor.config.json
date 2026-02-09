@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.a75hardtracker",
+  "appName": "75HardTracker",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
