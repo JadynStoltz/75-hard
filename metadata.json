@@ -1,0 +1,7 @@
+{
+  "name": "75 HARD TRACKER",
+  "description": "The ultimate tracking tool for the 75 Hard mental toughness challenge. Track workouts, water, reading, and diet with a sleek, dark aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
